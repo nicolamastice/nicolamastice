@@ -1,9 +1,17 @@
 body {
-    background-color: red;
+    background-color: #F6F6F6;
 }
 section {
     background-color: yellow;
 }
 .intro {
     background-color: green;
+}
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.pages {
+    display: inline;
 }
